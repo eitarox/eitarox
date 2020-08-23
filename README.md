@@ -1,7 +1,8 @@
 ### Hi there, I'm Eitaro - aka [eitarox][website] 👋
 
 [![Website](https://img.shields.io/website?label=eitarox.github.io&style=for-the-badge&url=https://eitarox.github.io/)](https://eitarox.github.io/)  
-![Twitter Follow](https://img.shields.io/twitter/follow/eitarox?color=1DA1F2&logo=twitter&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/eitarox?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/eitarox&screen_name=eitarox)
+
 ## I'm a Artist, Biologist, Creator, Designer, Engineer and Researcher!
 
 - 🌱 I’m currently learning ROS🤖
