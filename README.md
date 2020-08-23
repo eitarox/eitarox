@@ -15,6 +15,7 @@
 [<img align="left" alt="eitarox | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter_jp]
 [<img align="left" alt="eitarox | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="eitarox | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="eitarox | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
 
 <br />
 
@@ -24,4 +25,4 @@
 [youtube]: https://youtube.com/UCMJMkxP99-J_sLjo29U8IbA
 [instagram]: https://instagram.com/eitarox
 [linkedin]: https://linkedin.com/in/eitaro-yamatsuta-570188140/
-[](https://open.spotify.com/playlist/6ZHRhyP2txA3dGWlAHN1II)
+[kaggle]: https://www.kaggle.com/eitarox
