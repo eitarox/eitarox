@@ -8,7 +8,7 @@
 - 💻  I'm currently working as an engineer at [BONX](https://bonx.co/) and [Ubitone](https://www.ubitone.com/) 💗
 - 🌱  I’m interested in Robotics and Biology 🤖🧠
 - 👯  I’m looking to collaborate with other engineers 🤝
-- 🥅  2021 Goals: Contribute more to Open Source projects 💪
+- 🥅  2022 Goals: Contribute more to Open Source projects 💪
 - ⚡  Fun fact: I love to draw and sketch 🎨
 
 
