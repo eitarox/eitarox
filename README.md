@@ -1,8 +1,7 @@
-### Hi there, I'm Eitaro - aka [eitarox][website] 👋
+### Hi there, I'm Eitaro 👋  
+#### Artist • Biologist • Creator • Designer • Engineer • Researcher
 
-### I'm an Artist, Biologist, Creator, Designer, Engineer and Researcher!
-
-- 🌱  I’m interested in Robotics and Biology 🤖🧠
-- 👯  I’m looking to collaborate with other engineers 🤝
-- 🥅  2024 Goals: Live Healthy 💪
-- ⚡  Fun fact: I love to draw 🎨
+- 🌱 Interested in robotics & biology 🤖🧠
+- 👯 Open to collaboration with other engineers 🤝
+- 🥅 2025 goal: stay healthy 💪
+- ⚡ Fun fact: I love drawing 🎨
